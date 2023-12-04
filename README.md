@@ -12,4 +12,4 @@
 ## Large Card
 ### ![image](https://github.com/AlexJ1890/Challenge-2/assets/150198347/8a73694e-c376-481e-bb1b-a183ea22f4e3)
 ## License
-### 
+### MIT License
