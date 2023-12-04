@@ -25,6 +25,7 @@ header {
     align-items: center;
     background-color: var(--dodger-blue);
     font-size: 2rem;
+    color: var(--black);
     width: 100%;
     padding: 5px;
     margin: 0;
@@ -57,12 +58,18 @@ nav, a {
 
 footer {
     font-size: 2rem;
+    color: var(--black);
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     text-decoration: none;
     margin-bottom: 30px;
 }
+
+footer, a {
+    color: var(--black);
+}
+
 #flex {
     display: flex;
 }
@@ -155,12 +162,6 @@ footer {
     width: 100%;
     height: 100%;
     max-height: 325px;
-}
-
-img {
-    display: flex;
-    justify-content: center;
-    align-content: center;
 }
 
 #projheader {
