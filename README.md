@@ -2,6 +2,8 @@
 ## Description and Motivation
 ### This is a portfolio framework that I will be able to expand upon and possibly use as my home page in the future.
 ### I'm still fairly new and figuring things out, and hope to improve on my furture work
+## Link
+### https://alexj1890.github.io/Challenge-2/
 ## Colors
 ### ![image](https://github.com/AlexJ1890/Challenge-2/assets/150198347/390bb941-ff6d-4551-a6d7-809bd432f5fd)
 ## Header and Footer
